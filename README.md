@@ -5,11 +5,22 @@ Transformando datos en decisiones estratégicas 💡
 
 ---
 
+## 🏷️ Skills / Tecnologías
+
+![SQL](https://img.shields.io/badge/SQL-Server-blue?style=flat-square&logo=Microsoft-SQL-Server)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow?style=flat-square&logo=Python)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-orange?style=flat-square&logo=PowerBI)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=flat-square&logo=Microsoft-Excel)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas-red?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Scripts-lightgrey?style=flat-square)
+
+---
+
 ## 🗂️ Proyectos destacados
 
 ### 1️⃣ SQL Projects
-🔹 Scripts de práctica en **SQL Server** usando la base de datos **WideWorldImporters**  
-🔹 Consultas básicas, joins, agregaciones y subconsultas  
+🔹 Scripts de práctica en **SQL Server** usando **WideWorldImporters**  
+🔹 Consultas básicas, joins, agregaciones y subqueries  
 🔹 Nivel: Principiante a Avanzado  
 [💻 Ver repositorio](https://github.com/LucianoMosquen/SQL_Projects)
 
@@ -29,17 +40,6 @@ Transformando datos en decisiones estratégicas 💡
 
 ---
 
-## 🛠️ Habilidades / Skills
-
-| Área | Herramientas / Tecnologías |
-|------|---------------------------|
-| SQL & Databases | SQL Server, T-SQL, consultas complejas, joins, subqueries |
-| BI & Reporting | Power BI, DAX, dashboards interactivos |
-| Data Analysis | Python (Pandas, NumPy, Matplotlib), Excel avanzado |
-| Automatización | Scripts para extracción, transformación y reporting |
-
----
-
 ## 🎯 Objetivo
 Seguir creciendo como **Data Analyst / Data Scientist**, aportando valor a través de análisis de datos, dashboards y automatización, y desarrollando soluciones estratégicas que faciliten la toma de decisiones.
 
@@ -48,4 +48,6 @@ Seguir creciendo como **Data Analyst / Data Scientist**, aportando valor a trav�
 ## 📬 Contacto
 - LinkedIn: [linkedin.com/in/lucianomosquen](https://www.linkedin.com/in/lucianomosquen)  
 - Email: luciano.mosquen@gmail.com  
+
+---
 
