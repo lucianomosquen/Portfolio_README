@@ -41,7 +41,7 @@ Transformando datos en decisiones estratégicas 💡
 ---
 
 ## 🎯 Objetivo
-Seguir creciendo como **Data Analyst / Data Scientist**, aportando valor a través de análisis de datos, dashboards y automatización, y desarrollando soluciones estratégicas que faciliten la toma de decisiones.
+Seguir creciendo en roles de BI, Analytics, Revenue Operations o Business Operations en empresas tech y data-driven.
 
 ---
 
